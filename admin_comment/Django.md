@@ -34,9 +34,12 @@ Pythonの特徴は機械学習や統計などのライブラリを豊富に取�
 
 ## Djangoのおすすめ書籍
 
+
+<!--
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=oreilly10book-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4798061921&linkId=bc9a1316010f56c0c2e640d95123f4ec"></iframe>
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=oreilly10book-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09K235CTP&linkId=7480f96111671595ef2c305798d07f68"></iframe>
+-->
 
 Djangoの書籍はこの二冊をお勧めします。
 特に一冊目の「Python Django3超入門」はプログラミングをやったことない初心者でも簡単にwebサービスが作れるようになってます。
